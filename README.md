@@ -1,6 +1,6 @@
 # Time-booking-system 
 
-# Task
+## Task
 Screens with serial numbers can be seen in customer service departments (bank, outpatient
 clinic, post office, etc.). The incoming customer prints out the number and the display shows the
 waiting line and the customers place in it. To avoid serial numbers printed on paper, a system is
